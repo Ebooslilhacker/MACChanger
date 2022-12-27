@@ -13,8 +13,8 @@ Fake MAC addreses that can you use on the program:
 
 Examples: 
 
-00:11:D3:66:00:12
-d2:c2:f2:a2:00:88
+# 00:11:D3:66:00:12
+# d2:c2:f2:a2:00:88
 
 
-They are more fake address that you can use but i leave writted this addresses here like a fast testing.
+There more fake address that you can use but i leave writted this addresses like a fast testing.
