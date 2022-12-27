@@ -48,4 +48,18 @@ git clone https://github.com/Ebooslilhacker/MACChanger.git
 
 cd MACChanger
 
-python3 MAC_Spoofer.py 
+sudo su
+
+python3 MAC_Spoofer.py or python3 MAC_Spoofer.py --help
+
+
+
+![imagen](https://user-images.githubusercontent.com/83958340/209678811-1258086b-7901-4e36-8220-294b58250aa5.png)
+
+
+
+
+
+
+
+![imagen](https://user-images.githubusercontent.com/83958340/209678516-18bcb729-999c-4347-9cc8-4655630df829.png)
