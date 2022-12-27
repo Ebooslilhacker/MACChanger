@@ -6,6 +6,9 @@ The objective of this software its make you anonymous when you are doing a ARP p
 
 Python --> sudo apt install python3 -y
 
-git --> sudo apt install git -y
+git --> sudo apt install git -y 
 
 
+Fake MAC address that can you use 
+
+00:11:D3:66:00:12
