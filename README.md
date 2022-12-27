@@ -40,3 +40,12 @@ C --> 13|
 D --> 14| 
 E --> 15| 
 F --> 16|
+----------------------------------------------------------------------------------------------------
+
+Guide of commands
+
+git clone https://github.com/Ebooslilhacker/MACChanger.git
+
+cd MACChanger
+
+python3 MAC_Spoofer.py 
