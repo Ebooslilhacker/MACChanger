@@ -15,6 +15,7 @@ Examples:
 
 # 00:11:D3:66:00:12
 # d2:c2:f2:a2:00:88
-
+# 5e:00:a1:b4:f8:c2
+# d8:00:f2:a6:1d:c4
 
 There more fake address that you can use but i leave writted this addresses like a fast testing.
