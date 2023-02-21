@@ -50,7 +50,6 @@ cd MACChanger
 
 sudo su
 
-Option 1 -> python3 MAC_Spoofer.py  --> To execute user graphical interface
+ python3 MAC_Spoofer.py  --> To execute the tool and user graphical interface
 
-Option 2 -> python3 MAC_Spoofer.py --help --> To see avalaible commands for the tool
 
